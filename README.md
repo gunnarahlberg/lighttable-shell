@@ -1,9 +1,9 @@
-##HTML for Light Table
+##Gunnar's Light Table shell
 
-The official HTML language plugin for Light Table.
+A shell. For Light Table
 
 ###License
 
-Copyright (C) 2013 Kodowa Inc.
+Copyright (C) 2014 Gunnar Ahlberg
 
 Distributed under the GPLv3, see license.md for the full text.
